@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\bin\Debug\Spam-Bot-V1.exe.config
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\bin\Debug\Spam-Bot-V1.exe
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\bin\Debug\Spam-Bot-V1.pdb
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam-Bot-V1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam_Bot_V1.Form1.resources
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam_Bot_V1.Properties.Resources.resources
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam-Bot-V1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam-Bot-V1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam-Bot-V1.exe
+C:\Users\USER\source\repos\Spam-Bot-V1\Spam-Bot-V1\obj\Debug\Spam-Bot-V1.pdb
